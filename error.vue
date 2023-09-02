@@ -8,7 +8,7 @@
 				<span class="duration-200 group-hover:translate-x-[24px]">{{ data.error.statusCode }}</span>
 			</div>
 		</div>
-		<div class="text-2xl font-medium">Данной страницы не существует...</div>
+		<div class="text-xl sm:text-2xl font-medium">Данной страницы не существует...</div>
 	</div>
 </template>
 

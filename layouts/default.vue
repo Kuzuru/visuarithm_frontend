@@ -1,5 +1,4 @@
 <template>
-	<div>Default Layout</div>
 	<NuxtPage />
 </template>
 
